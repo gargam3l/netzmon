@@ -1,0 +1,11 @@
+# Compiled python files
+*.pyc
+
+# AWS API keys
+**/aws/*
+
+# Generated JSON files
+**/json/*
+
+#PyCharm settings
+**.idea/* 
